@@ -1,5 +1,6 @@
-a34ecb9472288ac8156d315568cd3853 *DESCRIPTION
-879afefe3fa7764ef955bcede7f7b9ab *NAMESPACE
+bbdac6becdf53185e627f7b35ff0790f *DESCRIPTION
+93a7f00e0b78a1c2433e84dd432d25fb *NAMESPACE
+05811ff1065618937b0c57734e72d054 *NEWS.md
 b175fc640ad7bc48d5a6a48d4001fe9b *R/check_data_consistency.R
 d7125cff280bdfc650bc1d2f5ae177c2 *R/check_data_distribution.R
 3b076c9fa9a759c61651857a4312ea59 *R/check_data_quality.R
@@ -11,7 +12,7 @@ dce259e1a45b9066b4b65d340759c386 *R/check_for_negative_values.R
 a832be3a2cde9de95cf452a8aeabac7c *R/check_sample_size.R
 1f6b38c7fcba26d3282fca046e25e996 *R/find.packages.R
 886cf7f49e65e9edc8fb55cdce5d8f2b *R/find.packages_path.R
-22370c3b5c07f6afd41ec9473ed9fc1e *R/find_duplicate_cols.R
+d806ca655783bb866ff1f83707b2d042 *R/find_duplicate_cols.R
 ba4c6d216917efae570e6395d4c3d10d *R/find_duplicate_rows.R
 5ccff3fd166c82fd3066cd1f60aec7a2 *R/fix.data.R
 ed5c02a5ac637f428704912a6c7c083b *R/fix_blanks_with_na.R
@@ -38,7 +39,6 @@ b83392b0928db1db443ec303ae3a9b3f *man/check_data_structure.Rd
 f11b7704bfd844e5a3ad3763cd6dcf73 *man/check_sample_size.Rd
 114919f764d543bd302e6eca3280a72c *man/find.packages.Rd
 1268e538e029dac6cbbbb162d391c228 *man/find.packages_path.Rd
-c2858ab51f6d5ba2da7a487b29773061 *man/find_duplicate_cols.Rd
 c87b1a5fa3aaa3b97c0567559509edc3 *man/find_duplicate_rows.Rd
 04551f58b98dc3bc6aaf60c1eb8cf8b8 *man/fix.data.Rd
 ba90e7fd10066d5de0b3c0644567ac63 *man/fix_blanks_with_na.Rd
